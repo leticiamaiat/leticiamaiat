@@ -2,7 +2,8 @@
 I'm Letícia, a student of Computer Science!
 
 - 🔭 I’m currently working on college/professional development projects.
-- 🌱 I’m currently learning Solidity, Python and JavaScript.
+- 🌱 I’m currently learning Solidity and JavaScript.
+- 🤔 C/C++ and Python are languages of my domain.
 ##
 
 <div align="center">
